@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "9a798845c4196a57d0e55018",
+  "owner": "yxqcax",
+  "repo": "page-369ec2eb0ec7a3c0733f107d",
+  "title": "免费订阅导入",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "369ec2eb0ec7a3c0733f107d",
+      "a": "IPLCCloud",
+      "b": "免费订阅导入",
+      "entity": "IPLCCloud",
+      "brand": "免费订阅导入",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "63dcaca98661387de06d55e9aef766d353be733c1e3da580891d45c363f4a91f",
+      "content": {
+        "primary_entity": "IPLCCloud",
+        "keyword1": "IPLCCloud",
+        "keyword2": "免费订阅导入",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择订阅客户端，不同平台配置方式略有差异。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求挑选合适套餐，完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "选择适合的加速方案",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版和团队版三档套餐，月付与年付灵活可选，覆盖多设备在线、流媒体解锁和专线游戏加速等场景，适配常见订阅客户端，可按指南完成配置。",
+          "AI_FEATURES_INTRO": "从套餐、设备和订阅周期三个角度快速判断适合自己的方案。",
+          "AI_FEATURES_TITLE": "快速了解服务特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 15 元含 100GB，旗舰版每月 35 元含 300GB，团队版每月 85 元含 1000GB。",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版最多支持 20 台设备同时在线。",
+          "AI_FEATURE_TEXT_3": "三档套餐均提供年付方案，分别按年付 ¥150、¥350、¥850，适合长期稳定使用。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TITLE_2": "按设备数量匹配",
+          "AI_FEATURE_TITLE_3": "灵活订阅周期",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置，三个步骤即可开始使用。",
+          "AI_GUIDE_TITLE": "订阅配置指引",
+          "AI_HERO_INTRO": "IPLCCloud 提供多档海外加速套餐，覆盖个人到团队的不同设备规模和流量需求，支持主流客户端订阅导入，帮助用户按自身情况完成配置。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备需求",
+          "AI_HIGHLIGHT_1": "三档套餐按流量区分",
+          "AI_HIGHLIGHT_2": "支持多设备同时在线",
+          "AI_HIGHLIGHT_3": "年付方案更省费用",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版兼顾流媒体与游戏加速，团队版面向多设备高流量场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量和每月流量需求，在基础版、旗舰版和团队版之间选择合适套餐。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备限制和线路说明，确认能满足当前使用场景。",
+          "AI_STEP_TEXT_3": "按照对应客户端文档，将订阅信息导入客户端并完成配置。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "IPLCCloud 加速方案",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "IPLCCloud 支持哪些客户端？",
+          "AI_FAQ_ANSWER_1": "常见客户端如 Clash、Shadowrocket、v2rayN、Surge 等均可按文档导入订阅，具体以所用设备系统为准，建议先确认客户端是否支持订阅链接。",
+          "AI_FAQ_QUESTION_2": "基础版和旗舰版主要区别是什么？",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备，并带有 IPLC 专线游戏加速优化与 7x24 优先工单支持。",
+          "AI_FAQ_QUESTION_3": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_3": "团队版每月 1000GB、支持 20 台设备同时在线，提供 VIP 专属高带宽节点、企业定制路由和专属客户经理服务，适合多人协作或小型团队共用。",
+          "AI_FAQ_QUESTION_4": "年付比月付省多少？",
+          "AI_FAQ_ANSWER_4": "按年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，相比按月支付可减少两个月的费用支出，长期使用更划算。",
+          "AI_FAQ_QUESTION_5": "如何配置订阅？",
+          "AI_FAQ_ANSWER_5": "选定套餐并确认设备适配后，打开对应客户端，按文档导入订阅地址，保存并选择节点即可连接。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "b84537d26b95880fa1966df89c2b5ed3b90127471599086c53d256e173d4d831",
+    "sitemap.xml": "71763d7ba38953fe49c6ad0641eb77b593bdb26b1a1a973c2320c93ce70f9af6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "0473ae1b1a64c996e5802cfe44d382a277a2db2320312205af4ed2cf1efa85dc"
+}
